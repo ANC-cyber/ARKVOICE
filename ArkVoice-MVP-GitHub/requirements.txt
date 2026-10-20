@@ -1,7 +1,0 @@
-fastapi>=0.110
-httpx>=0.27
-Pillow>=10.0
-rapidocr>=3.10
-onnxruntime>=1.18
-shapely>=2.0
-pyclipper>=1.3
